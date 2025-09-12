@@ -34,7 +34,7 @@ Usage: `./install.sh` **[OPTIONS...]**
 
 ## Credits
 
-This project is a blend of three incredible icon themes, which served as the foundation for WhiteSHW:
+This project is a blend of four incredible icon themes, which served as the foundation for WhiteSHW:
 
 - **WhiteSur Icon Theme**: [https://github.com/vinceliuice/WhiteSur-icon-theme](#)
 - **Win10Sur Icon Theme**: [https://github.com/yeyushengfan258/Win10Sur-icon-theme](#)
