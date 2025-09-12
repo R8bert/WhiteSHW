@@ -27,7 +27,8 @@ Usage: `./install.sh` **[OPTIONS...]**
 > **Note for snaps:** To use these icons with snaps, copy the application's `.desktop` file from `/var/lib/snapd/desktop/applications/name-of-the-snap-application.desktop` to `$HOME/.local/share/applications/`. Then, edit the file with a text editor and change the `Icon=` field to `Icon=name-of-the-icon.svg`.
 
 ---
-
+<img width="1298" height="866" alt="image" src="https://github.com/user-attachments/assets/657034d8-f9cb-4dd7-afc3-7f161299e112" />
+---
 ## Credits
 
 This project is a blend of four incredible icon themes, which served as the foundation for WhiteSHW:
