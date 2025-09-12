@@ -20,9 +20,7 @@ Usage: `./install.sh` **[OPTIONS...]**
 | -r, --remove, -u, --uninstall | Uninstall (remove) icon themes                                                                        |
 | -h, --help                    | Show this help                                                                                        |
 
-> **Recommendation:** I recommend downloading vinceliuice's WhiteSur GTK theme for a more complete desktop experience.
-
-[https://github.com/vinceliuice/WhiteSur-gtk-theme](#)
+> **Recommendation:** I recommend downloading vinceliuice's WhiteSur GTK theme for a more complete desktop experience. [https://github.com/vinceliuice/WhiteSur-gtk-theme](#)
 
 > **Important Note:** Installing this theme will overwrite the WhiteSur icon theme if it is already installed. Make sure to back up any existing themes before proceeding.
 
