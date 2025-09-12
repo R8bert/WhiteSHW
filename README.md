@@ -26,10 +26,6 @@ Usage: `./install.sh` **[OPTIONS...]**
 
 > **Note for snaps:** To use these icons with snaps, copy the application's `.desktop` file from `/var/lib/snapd/desktop/applications/name-of-the-snap-application.desktop` to `$HOME/.local/share/applications/`. Then, edit the file with a text editor and change the `Icon=` field to `Icon=name-of-the-icon.svg`.
 
-> For more information, run: `./install.sh --help`
-
----
-
 ---
 
 ## Credits
