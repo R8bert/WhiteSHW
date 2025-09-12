@@ -1,49 +1,44 @@
-<img src="logo.png" alt="Logo" align="right" /> WhiteSur Icon Theme
-======
+# WhiteSHW Icon Theme
 
-MacOS Big Sur like icon theme for linux desktops
+A unique icon theme for Linux desktops, blending the aesthetics of Win10Sur, Sevi, and Hatter icon sets into a personal project. This theme is designed with a focus on visual appeal, prioritizing a cohesive and stylish look over strict app-to-icon accuracy. Some icons may not directly correspond to their associated applications, but they are crafted to enhance the overall desktop experience with a polished, modern vibe.
 
-### Donate
+**Note:** This is a personal project created for fun and aesthetics. If you install this theme, it will overwrite the WhiteSur icon theme, so proceed with caution if you are using or plan to use WhiteSur.
 
-If you like my project, you can buy me a coffee:
+---
 
-<span class="paypal"><a href="https://www.paypal.me/vinceliuice" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
+## Installation Instructions
 
-## Install tips
+Usage: `./install.sh` **[OPTIONS...]**
 
-Usage:  `./install.sh`  **[OPTIONS...]**
+| OPTIONS:                      | Description                                                                                           |
+| :---------------------------- | :---------------------------------------------------------------------------------------------------- |
+| -d, --dest                    | Specify theme destination directory (Default: `$HOME/.local/share/icons`)                             |
+| -n, --name                    | Specify theme name (Default: WinSevHat)                                                               |
+| -t, --theme                   | Specify theme color variant(s) [default/purple/pink/red/orange/yellow/green/grey/all] (Default: blue) |
+| -a, --alternative             | Install alternative icons (redesigned versions of default icons)                                      |
+| -b, --bold                    | Install bold panel icons version (recommended for high-resolution displays like 4K with 200% scale)   |
+| -r, --remove, -u, --uninstall | Uninstall (remove) icon themes                                                                        |
+| -h, --help                    | Show this help                                                                                        |
 
-|  OPTIONS:           | |
-|:--------------------|:-------------|
-|-d, --dest           | Specify theme destination directory (Default: $HOME/.local/share/icons)|
-|-n, --name           | Specify theme name (Default: WhiteSur)|
-|-t, --theme          | Specify theme color variant(s) [default/purple/pink/red/orange/yellow/green/grey/all] (Default: blue)|
-|-a, --alternative    | Install alternative icons (redesigned MacOS default icons)|
-|-b, --bold           | Install bold panel icons version|
-|-r,--remove,-u,--uninstall | Uninstall (remove) icon themes|
-|-h, --help           | Show this help|
+> **Recommendation:** I recommend downloading vinceliuice's WhiteSur GTK theme for a more complete desktop experience.
 
-> **Note for snaps:** To use these icons with snaps, the best way is to make a copy of the application's .desktop located in `/var/lib/snapd/desktop/applications/name-of-the-snap-application.desktop` into `$HOME/.local/share/applications/`. Then use any text editor and change the "Icon=" to "Icon=name-of-the-icon.svg"
+[https://github.com/vinceliuice/WhiteSur-gtk-theme](#)
+
+> **Important Note:** Installing this theme will overwrite the WhiteSur icon theme if it is already installed. Make sure to back up any existing themes before proceeding.
+
+> **Note for snaps:** To use these icons with snaps, copy the application's `.desktop` file from `/var/lib/snapd/desktop/applications/name-of-the-snap-application.desktop` to `$HOME/.local/share/applications/`. Then, edit the file with a text editor and change the `Icon=` field to `Icon=name-of-the-icon.svg`.
 
 > For more information, run: `./install.sh --help`
 
-![alt](alt-version.png?raw=true)
+---
 
-![bold](bold-size.png?raw=true)
+---
 
-> Bold version suggested use in `High resolution display` like 4k display with 200% scale!
+## Credits
 
-## Requirement
-You can use this with:
+This project is a blend of three incredible icon themes, which served as the foundation for WhiteSHW:
 
-### GTK theme
-
-WhiteSur-gtk-theme: https://github.com/vinceliuice/WhiteSur-gtk-theme
-
-### KDE theme
-
-WhiteSur-kde: https://github.com/vinceliuice/WhiteSur-kde
-
-## Preview
-![1](preview.png)
-![2](preview01.png)
+- **WhiteSur Icon Theme**: [https://github.com/vinceliuice/WhiteSur-icon-theme](#)
+- **Win10Sur Icon Theme**: [https://github.com/yeyushengfan258/Win10Sur-icon-theme](#)
+- **Sevi Icon Theme**: [https://github.com/TaylanTatli/Sevi](#)
+- **Hatter Icon Theme**: [https://github.com/Mibea/Hatter](#)
