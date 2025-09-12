@@ -8,19 +8,21 @@ A unique icon theme for Linux desktops, blending the aesthetics of WhiteSur, Win
 
 ## Installation Instructions
 
-Usage: `./install.sh` **[OPTIONS...]**
+Installation command: `./install.sh -a`
+
+Alternative commands: `./install.sh` **[OPTIONS...]**
 
 | OPTIONS:                      | Description                                                                                           |
 | :---------------------------- | :---------------------------------------------------------------------------------------------------- |
 | -d, --dest                    | Specify theme destination directory (Default: `$HOME/.local/share/icons`)                             |
-| -n, --name                    | Specify theme name (Default: WinSevHat)                                                               |
+| -n, --name                    | Specify theme name (Default: WhiteSur)                                                                |
 | -t, --theme                   | Specify theme color variant(s) [default/purple/pink/red/orange/yellow/green/grey/all] (Default: blue) |
 | -a, --alternative             | Install alternative icons (redesigned versions of default icons)                                      |
 | -b, --bold                    | Install bold panel icons version (recommended for high-resolution displays like 4K with 200% scale)   |
 | -r, --remove, -u, --uninstall | Uninstall (remove) icon themes                                                                        |
-| -h, --help                    | Show this help                                                                                        |
+| -h, --help                    | Returns the same text as here `:)`                                                                    |
 
-> **Recommendation:** I recommend downloading vinceliuice's WhiteSur GTK theme for a more complete desktop experience. [https://github.com/vinceliuice/WhiteSur-gtk-theme](#)
+> **Recommendation:** I recommend downloading vinceliuice's WhiteSur GTK theme for a more complete desktop experience. [https://github.com/vinceliuice/WhiteSur-gtk-theme]
 
 > **Important Note:** Installing this theme will overwrite the WhiteSur icon theme if it is already installed. Make sure to back up any existing themes before proceeding.
 
