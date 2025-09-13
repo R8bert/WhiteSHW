@@ -1,44 +1,69 @@
-# WhiteSHW Icon Theme
+# 🌟 WhiteSHW Icon Theme
 
-A unique icon theme for Linux desktops, blending the aesthetics of WhiteSur, Win10Sur, Sevi, and Hatter icon sets into a personal project. This theme is designed with a focus on visual appeal, prioritizing a cohesive and stylish look over strict app-to-icon accuracy. Some icons may not directly correspond to their associated applications, but they are crafted to enhance the overall desktop experience with a polished, modern vibe.
+A vibrant and stylish icon theme for Linux desktops, meticulously crafted by blending the best elements of **WhiteSur**, **Win10Sur**, **Sevi**, and **Hatter** icon sets. WhiteSHW prioritizes a cohesive, modern aesthetic to elevate your desktop experience, with a touch of personality over strict app-to-icon accuracy. Perfect for those who want a polished, visually stunning interface!
 
-**Note:** This is a personal project created for fun and aesthetics. If you install this theme, it will overwrite the WhiteSur icon theme, so proceed with caution if you are using or plan to use WhiteSur.
+> **Note:** This is a personal project created for fun and aesthetics. Installing WhiteSHW will overwrite the **WhiteSur** icon theme, so back up your existing themes before proceeding.
 
 ---
 
-## Installation Instructions
+## 🎨 Features
 
-Installation command: `./install.sh -a`
+- **Unique Blend**: Combines the sleekness of WhiteSur, the familiarity of Win10Sur, the elegance of Sevi, and the charm of Hatter.
+- **Customizable Variants**: Choose from multiple color options to match your style.
+- **Modern Aesthetic**: Designed for a cohesive and visually appealing desktop experience.
+- **Bold Option**: Optimized for high-resolution displays (e.g., 4K with 200% scaling).
 
-Alternative commands: `./install.sh` **[OPTIONS...]**
+---
 
-| OPTIONS:                      | Description                                                                                           |
+## 🚀 Installation
+
+Run the installation with a single command:
+
+```bash
+./install.sh -a
+```
+
+### Available Options
+
+| Option                        | Description                                                                                           |
 | :---------------------------- | :---------------------------------------------------------------------------------------------------- |
-| -d, --dest                    | Specify theme destination directory (Default: `$HOME/.local/share/icons`)                             |
-| -n, --name                    | Specify theme name (Default: WhiteSur)                                                                |
-| -t, --theme                   | Specify theme color variant(s) [default/purple/pink/red/orange/yellow/green/grey/all] (Default: blue) |
-| -a, --alternative             | Install alternative icons (redesigned versions of default icons)                                      |
-| -b, --bold                    | Install bold panel icons version (recommended for high-resolution displays like 4K with 200% scale)   |
-| -r, --remove, -u, --uninstall | Uninstall (remove) icon themes                                                                        |
-| -h, --help                    | Returns the same text as here `:)`                                                                    |
+| `-d`, `--dest`                | Specify theme destination directory (Default: `$HOME/.local/share/icons`)                             |
+| `-n`, `--name`                | Specify theme name (Default: `WhiteSur`)                                                              |
+| `-t`, `--theme`               | Choose theme color variant(s): `default`, `purple`, `pink`, `red`, `orange`, `yellow`, `green`, `grey`, `all` (Default: `blue`) |
+| `-a`, `--alternative`         | Install alternative icons (redesigned versions of default icons)                                      |
+| `-b`, `--bold`                | Install bold panel icons for high-resolution displays (recommended for 4K with 200% scale)            |
+| `-r`, `--remove`, `-u`, `--uninstall` | Uninstall (remove) icon themes                                                                |
+| `-h`, `--help`                | Display help information                                                                             |
 
-> **Recommendation:** I recommend downloading vinceliuice's WhiteSur GTK theme for a more complete desktop experience. [https://github.com/vinceliuice/WhiteSur-gtk-theme]
+### Recommendations
 
-> **Important Note:** Installing this theme will overwrite the WhiteSur icon theme if it is already installed. Make sure to back up any existing themes before proceeding.
-
-> **Note for snaps:** To use these icons with snaps, copy the application's `.desktop` file from `/var/lib/snapd/desktop/applications/name-of-the-snap-application.desktop` to `$HOME/.local/share/applications/`. Then, edit the file with a text editor and change the `Icon=` field to `Icon=name-of-the-icon.svg`.
-
----
-
-## <img width="1298" height="866" alt="image" src="https://github.com/user-attachments/assets/657034d8-f9cb-4dd7-afc3-7f161299e112" />
+- For a cohesive look, pair WhiteSHW with the **WhiteSur GTK Theme** by vinceliuice: [GitHub Repository](https://github.com/vinceliuice/WhiteSur-gtk-theme).
+- **Important**: Back up your existing WhiteSur icon theme, as WhiteSHW will overwrite it.
+- **Snaps Note**: To use with snap applications, copy the `.desktop` file from `/var/lib/snapd/desktop/applications/name-of-the-snap-application.desktop` to `$HOME/.local/share/applications/`. Edit the file and update the `Icon=` field to `Icon=name-of-the-icon.svg`.
 
 ---
 
-## Credits
+## 🖼️ Preview
 
-This project is a blend of four incredible icon themes, which served as the foundation for WhiteSHW:
+![WhiteSHW Preview](https://github.com/user-attachments/assets/657034d8-f9cb-4dd7-afc3-7f161299e112)
 
-- **WhiteSur Icon Theme**: [https://github.com/vinceliuice/WhiteSur-icon-theme](#)
-- **Win10Sur Icon Theme**: [https://github.com/yeyushengfan258/Win10Sur-icon-theme](#)
-- **Sevi Icon Theme**: [https://github.com/TaylanTatli/Sevi](#)
-- **Hatter Icon Theme**: [https://github.com/Mibea/Hatter](#)
+---
+
+## 🙌 Credits
+
+WhiteSHW is a fusion of four amazing icon themes, each contributing to its unique style:
+
+- **[WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme)**: Clean and modern foundation.
+- **[Win10Sur Icon Theme](https://github.com/yeyushengfan258/Win10Sur-icon-theme)**: Familiar Windows-inspired icons.
+- **[Sevi Icon Theme](https://github.com/TaylanTatli/Sevi)**: Elegant and minimalistic designs.
+- **[Hatter Icon Theme](https://github.com/Mibea/Hatter)**: Quirky and creative touches.
+
+---
+
+## 📜 License
+
+This project is licensed under the **GNU General Public License v3.0**. Feel free to use, modify, and share, but please give credit to the original authors and contributors.
+
+---
+
+✨ **Enjoy a beautifully styled Linux desktop with WhiteSHW!** ✨
