@@ -1,6 +1,6 @@
 # 🌟 WhiteSHW Icon Theme
 
-A vibrant and stylish icon theme for Linux desktops, meticulously crafted by blending the best elements of **WhiteSur**, **Win10Sur**, **Sevi**, and **Hatter** icon sets. WhiteSHW prioritizes a cohesive, modern aesthetic to elevate your desktop experience, with a touch of personality over strict app-to-icon accuracy. Perfect for those who want a polished, visually stunning interface!
+A custom icon theme for Linux desktops, mixing the best bits of WhiteSur, Win10Sur, Sevi, and Hatter icon sets. I built this for fun, focusing on a sleek, unified look rather than perfect app-to-icon matches. It’s all about making your desktop feel modern and stylish.
 
 > **Note:** This is a personal project created for fun and aesthetics. Installing WhiteSHW will overwrite the **WhiteSur** icon theme, so back up your existing themes before proceeding.
 
