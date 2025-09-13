@@ -51,9 +51,3 @@ WhiteSHW is a fusion of four amazing icon themes, each contributing to its uniqu
 - **[Hatter Icon Theme](https://github.com/Mibea/Hatter)**: Quirky and creative touches.
 
 ---
-
-## 📜 License
-
-This project is licensed under the **GNU General Public License v3.0**. Feel free to use, modify, and share, but please give credit to the original authors and contributors.
-
----
