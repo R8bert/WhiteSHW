@@ -6,14 +6,6 @@ A custom icon theme for Linux desktops, mixing the best bits of WhiteSur, Win10S
 
 ---
 
-## 🎨 Features
-
-- **Unique Blend**: Combines the sleekness of WhiteSur, the familiarity of Win10Sur, the elegance of Sevi, and the charm of Hatter.
-- **Customizable Variants**: Choose from multiple color options to match your style.
-- **Modern Aesthetic**: Designed for a cohesive and visually appealing desktop experience.
-- **Bold Option**: Optimized for high-resolution displays (e.g., 4K with 200% scaling).
-
----
 
 ## 🚀 Installation
 
