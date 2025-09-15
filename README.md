@@ -31,7 +31,6 @@ Run the installation with a single command:
 
 - For a cohesive look, pair WhiteSHW with the **WhiteSur GTK Theme** by vinceliuice: [GitHub Repository](https://github.com/vinceliuice/WhiteSur-gtk-theme).
 - ⚠️ **Important:** Installing this theme will overwrite the **WhiteSur icon theme** if it’s already installed. Make sure to back up your existing themes before proceeding!
-- **Snaps Note**: To use with snap applications, copy the `.desktop` file from `/var/lib/snapd/desktop/applications/name-of-the-snap-application.desktop` to `$HOME/.local/share/applications/`. Edit the file and update the `Icon=` field to `Icon=name-of-the-icon.svg`.
 
 ---
 
