@@ -7,7 +7,7 @@ A custom icon theme for Linux desktops, mixing the best bits of WhiteSur, Win10S
 ---
 
 
-## 🚀 Installation
+## 🚀 Installation 🚀 
 
 Run the installation with a single command:
 
@@ -34,13 +34,13 @@ Run the installation with a single command:
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Preview 🖼️
 
 ![WhiteSHW Preview](https://github.com/user-attachments/assets/657034d8-f9cb-4dd7-afc3-7f161299e112)
 
 ---
 
-## 🙌 Credits
+## 🙌 Credits 🙌
 
 WhiteSHW is a fusion of four amazing icon themes, each contributing to its unique style:
 
