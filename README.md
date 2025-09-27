@@ -23,7 +23,6 @@ Run the installation with a single command:
 | `-n`, `--name`                | Specify theme name (Default: `WhiteSur`)                                                              |
 | `-t`, `--theme`               | Choose theme color variant(s): `default`, `purple`, `pink`, `red`, `orange`, `yellow`, `green`, `grey`, `all` (Default: `blue`) |
 | `-a`, `--alternative`         | Install alternative icons (redesigned versions of default icons)                                      |
-| `-b`, `--bold`                | Install bold panel icons for high-resolution displays (recommended for 4K with 200% scale)            |
 | `-r`, `--remove`, `-u`, `--uninstall` | Uninstall (remove) icon themes                                                                |
 | `-h`, `--help`                | Display help information                                                                             |
 
