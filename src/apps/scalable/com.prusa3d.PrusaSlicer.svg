@@ -53,12 +53,10 @@
        gradientUnits="userSpaceOnUse"><stop
          stop-color="#f1efeb"
          offset="0"
-         id="stop19783"
-         style="stop-color:#000000;stop-opacity:1;" /><stop
+         id="stop19783" /><stop
          stop-color="#fdfcfc"
          offset="1"
-         id="stop19785"
-         style="stop-color:#8f8dab;stop-opacity:1;" /></linearGradient></defs><image
+         id="stop19785" /></linearGradient></defs><image
      x="1.5592999"
      y="1.1969916"
      width="60.882"
