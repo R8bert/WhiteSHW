@@ -1,1 +1,2 @@
 (+) Remake the ghostty icon
+(-) Remake the steam icon 
