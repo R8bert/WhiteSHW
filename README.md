@@ -44,7 +44,7 @@ Run the installation with a single command:
 
 WhiteSHW is a fusion of four amazing icon themes, each contributing to its unique style:
 
-- **[WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme)**
+- **[MacTahoe Icon Theme](https://github.com/vinceliuice/MacTahoe-gtk-theme)**
 - **[Win10Sur Icon Theme](https://github.com/yeyushengfan258/Win10Sur-icon-theme)**
 - **[Sevi Icon Theme](https://github.com/TaylanTatli/Sevi)**
 - **[Hatter Icon Theme](https://github.com/Mibea/Hatter)**
